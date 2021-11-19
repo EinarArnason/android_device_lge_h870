@@ -41,8 +41,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="lucye_global_com" \
     PRIVATE_BUILD_DESC="lucye_global_com-user 9 PKQ1.190522.001 1930916292597 release-keys"
 
-<<<<<<< HEAD:aosp_h870.mk
-BUILD_FINGERPRINT := "google/coral/coral:11/RQ3A.210905.001/7511028:user/release-keys"
-=======
 BUILD_FINGERPRINT := "google/coral/coral:12/SP1A.211105.002/7743617:user/release-keys"
->>>>>>> mainstream/lineage-18.1:lineage_h870.mk
